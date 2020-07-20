@@ -1,3 +1,4 @@
+require "project"
 def Backer
 
   attr_reader :name, :backed_projects
